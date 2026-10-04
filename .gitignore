@@ -1,0 +1,41 @@
+# Local task notes
+goals/
+*.local.md
+
+# Go
+/backend/bin/
+*.exe
+*.test
+*.out
+
+# Node / frontend
+node_modules/
+frontend/dist/
+coverage/
+*.tsbuildinfo
+playwright-report/
+test-results/
+
+# Tauri / Rust
+shell/src-tauri/target/
+shell/src-tauri/gen/
+
+# Generated from brand/
+frontend/src/generated/
+backend/internal/brand/brand_gen.go
+shell/src-tauri/icons/
+
+# User data and secrets
+data/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

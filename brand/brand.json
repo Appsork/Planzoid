@@ -1,0 +1,17 @@
+{
+  "displayName": "Planzoid",
+  "shortName": "Planzoid",
+  "tagline": "Plan it, prepare it, post it, learn from it.",
+  "appId": "planzoid",
+  "bundleIdentifier": "com.appsork.planzoid",
+  "publisher": "Appsork",
+  "logo": "logo.svg",
+  "placeholder": false,
+  "forbiddenNames": [
+    "Hutash"
+  ],
+  "logoPlaceholder": true,
+  "allowedFiles": [
+    "README.md"
+  ]
+}

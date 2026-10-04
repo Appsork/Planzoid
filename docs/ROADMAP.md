@@ -1,5 +1,7 @@
 # Roadmap
 
+> Draft plan. Nothing here is built yet, and all of it is open to change.
+
 ## Phase 0 — Foundation
 - [ ] Repos, hooks, licence
 - [ ] Brand generator (constants, desktop config, icons from logo.svg)

@@ -1,5 +1,7 @@
 # Product
 
+> Draft plan. Nothing here is built yet, and all of it is open to change.
+
 ## The problem
 
 People launching a product post across Reddit, X, YouTube, Instagram and

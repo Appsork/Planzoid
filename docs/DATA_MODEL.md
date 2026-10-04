@@ -1,5 +1,7 @@
 # Data model
 
+> Draft plan. Nothing here is built yet, and all of it is open to change.
+
 All times stored in UTC, shown in the user's zone. Every row has
 `workspace_id`.
 

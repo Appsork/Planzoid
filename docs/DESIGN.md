@@ -1,5 +1,7 @@
 # Design system
 
+> Draft plan. Nothing here is built yet, and all of it is open to change.
+
 > `tokens.css` owns the design. Components own the behaviour. Screens own
 > the composition.
 

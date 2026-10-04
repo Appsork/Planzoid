@@ -1,5 +1,7 @@
 # Platform plugins
 
+> Draft plan. Nothing here is built yet, and all of it is open to change.
+
 A platform is a spec file in `backend/platforms/<id>.yaml`, plus optional
 collector code. Adding a platform needs no change anywhere else.
 

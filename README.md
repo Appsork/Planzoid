@@ -16,13 +16,13 @@ issue or start a discussion. If nobody needs it, it won't be built.
 
 | | |
 |---|---|
-| Product | `docs/PRODUCT.md` |
-| Architecture | `docs/ARCHITECTURE.md` |
-| Data model | `docs/DATA_MODEL.md` |
-| Platform plugins | `docs/PLATFORMS.md` |
-| Design system | `docs/DESIGN.md` |
-| Roadmap | `docs/ROADMAP.md` |
-| Licence | Apache-2.0 (`LICENSE`) |
+| Product | [docs/PRODUCT.md](docs/PRODUCT.md) |
+| Architecture | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) |
+| Data model | [docs/DATA_MODEL.md](docs/DATA_MODEL.md) |
+| Platform plugins | [docs/PLATFORMS.md](docs/PLATFORMS.md) |
+| Design system | [docs/DESIGN.md](docs/DESIGN.md) |
+| Roadmap | [docs/ROADMAP.md](docs/ROADMAP.md) |
+| Licence | [Apache-2.0](LICENSE) |
 
 ## Editions
 
